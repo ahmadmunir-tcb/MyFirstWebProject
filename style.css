@@ -1,0 +1,132 @@
+body
+{
+  background-color: black; 
+}
+
+#main-wrapper
+{
+  width: 800px;
+  background-color: black; 
+  margin: 30px auto;
+  padding: 20px;
+  border: 7px solid gold;
+}
+
+#header-box
+{
+  background-color: maroon;
+  padding: 15px;
+  margin-bottom: 20px;
+  border: 2px solid gold;
+  text-align: center;
+}
+
+#header-box h1
+{
+  margin: 0;
+  color: white;
+  font-weight: bold;
+}
+
+#header-box p
+{
+  margin: 5px 0 0 0;
+  color: gold;
+  font-size: 16px;
+}
+
+#content-container
+{
+  overflow: hidden;
+}
+
+#sidebar-box
+{
+  float: left;
+  width: 220px;
+  background-color: #262626;
+  border: 2px solid red;
+  padding: 15px;
+  margin-right: 20px;
+}
+
+#sidebar-box h2
+{
+  color: gold;
+  margin-top: 0;
+  font-size: 18px;
+  border-bottom: 2px solid red;
+  padding-bottom: 5px;
+}
+
+#sidebar-box ul
+{
+  padding-left: 20px;
+  color: white;
+}
+
+#articles-container
+{
+  float: left;
+  width: 510px;
+}
+
+.stat-box
+{
+  border: 2px solid gold;
+  padding: 15px;
+  margin-bottom: 15px;
+  background-color: #222222;
+}
+
+.stat-box h3
+{
+  color: red;
+  border-bottom: 2px dashed gold;
+  padding-bottom: 5px;
+  margin-top: 0;
+}
+
+.stat-box p
+{
+  color: white;
+  font-size: 13px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.highlight
+{
+  color: gold;
+  font-weight: bold;
+}
+
+.salah2
+{
+  width: 100%;
+  max-width: 450px;
+  height: 500px;
+  border: 2px solid gold;
+  margin-top: 10px;
+  display: block;
+}
+
+.salah1
+{
+  width: 100%;
+  max-width: 450px;
+  height: auto;
+  border: 2px solid gold;
+  margin-top: 10px;
+  display: block;
+}
+
+.salah3
+{
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  border: 1px solid gold;
+  margin-top: 10px;
+  display: block;
+}
